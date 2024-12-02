@@ -24,6 +24,13 @@ export const projectsData = [
     date: "2024-08-15",
     demoLink: "https://e-commerce-client-virid.vercel.app/",
   },
+  {
+    id: 2,
+    name: "Easy Short Cut Code",
+    description: "react js project",
+    date: "2024-12-03",
+    demoLink: "https://easyshort-cut-codes-git-main-manieshs-projects.vercel.app/",
+  },
   // {
   //   id: 2,
   //   name: "E-Commerce",
