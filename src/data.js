@@ -26,10 +26,17 @@ export const projectsData = [
   },
   {
     id: 2,
-    name: "Easy Short Cut Code",
-    description: "react js project",
-    date: "2024-12-03",
-    demoLink: "https://easyshort-cut-codes-git-main-manieshs-projects.vercel.app/",
+    name: "AI Chat App",
+    description: "next with ai integrated project",
+    date: "2025-04-03",
+    demoLink: "https://ai-chat-bot-rho-ten.vercel.app/",
+  },
+  {
+    id: 3,
+    name: "Dynamic Portfolio Generator",
+    description: "nextjs with tailwindcss",
+    date: "2025-06-15",
+    demoLink: "https://portfolio-generator-chi-ten.vercel.app/",
   },
   // {
   //   id: 2,
